@@ -16,7 +16,7 @@ JAVA 알고리즘 스터디!
 ---
 ## 스터디 참여 인원👩‍💻
 - [**김지원**](https://github.com/kiwijomn)
-- [**류지윤**]()
+- [**류지윤**](https://github.com/Ryujy)
 - [**백민희**](https://github.com/minheebaek)
 - [**이영인**](https://github.com/rongren)
 
