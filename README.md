@@ -82,7 +82,3 @@ JAVA 알고리즘 스터디!
   -[알고리즘 문제풀이(PS)시작하기](https://plzrun.tistory.com/entry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4PS-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0) <br>
 =>알고리즘 어떻게 풀어야 하는지에 대한 방법과 문제 추천 기록됨<br>
   -[초급중급알고리즘 스터디 커리큘럼 추천 글 저자의 깃](https://github.com/dev-dain/Dukgorithm)
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minheebaek&layout=compact)](https://github.com/minheebaek/github-readme-stats)
- 
-	
