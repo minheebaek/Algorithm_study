@@ -18,22 +18,21 @@ JAVA 알고리즘 스터디!
 - [**김지원**](https://github.com/kiwijomn)
 - [**류지윤**](https://github.com/Ryujy)
 - [**백민희**](https://github.com/minheebaek)
-- [**이영인**](https://github.com/rongren)
 
 ---
 
 ## 주제와 문제집📖
-| 주차 | 주제 |
-|---|---|
-| 1  |  **수학** (합공식/피보나치수/약수/최대공약수/최소공배수/소수) :: 김지원 <br>[수업자료](https://github.com/minheebaek/Algorithm_study/blob/main/week1/%EC%9E%90%EB%A3%8C/1%EC%A3%BC%EC%B0%A8%20%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)<br>[문제집](https://www.acmicpc.net/workbook/view/8997) |
-| 2  |  **자료구조** (스택/큐/덱/힙) :: 류지윤<br>[수업자료]()<br>[문제집](https://www.acmicpc.net/workbook/view/8999) |
-| 3  |  **재귀함수**의 이해 & 여러 가지 **정렬** :: 이영인<br>[수업자료]()<br>[문제집](https://www.acmicpc.net/workbook/view/9000) |
-| 4  |  **다이나믹 프로그래밍 (DP)** :: 백민희<br>[수업자료]()<br>[문제집](https://www.acmicpc.net/workbook/view/9001) |
-| 5  |  **그래프** 이론과 구현 (1) & **DFS와 BFS 기초** :: 김지원<br>[수업자료]()<br>[문제집](https://www.acmicpc.net/workbook/view/9003) |
-| 6  |  **그래프** 이론과 구현 (2) & **DFS와 BFS 응용 & 다익스트라 알고리즘** :: 류지윤<br>[수업자료]() |
-| 7  |  **분할정복 & 이분탐색** :: 이영인<br>[수업자료]() |
-| 8  |  **그리디 알고리즘** :: 백민희 <br>[수업자료]() |
-| 9  |  **완전탐색(Brute Force) & 시뮬레이션** <br>[수업자료]() |
+| 주차 | 주제                                                                                                                                                                                                                                                           |
+|---|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1  | **수학** (합공식/피보나치수/약수/최대공약수/최소공배수/소수) :: 김지원 <br>[수업자료](https://github.com/minheebaek/Algorithm_study/blob/main/week1/%EC%9E%90%EB%A3%8C/1%EC%A3%BC%EC%B0%A8%20%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)<br>[문제집](https://www.acmicpc.net/workbook/view/8997) |
+| 2  | **자료구조** (스택/큐/덱/힙) :: 류지윤<br>[수업자료]()<br>[문제집](https://www.acmicpc.net/workbook/view/8999)                                                                                                                                                                  |
+| 3  | **재귀함수**의 이해 & 여러 가지 **정렬** :: 백민희<br>[수업자료]()<br>[문제집](https://www.acmicpc.net/workbook/view/9000)                                                                                                                                                          |
+| 4  | **다이나믹 프로그래밍 (DP)** :: 백민희<br>[수업자료]()<br>[문제집](https://www.acmicpc.net/workbook/view/9001)                                                                                                                                                                  |
+| 5  | **그래프** 이론과 구현 (1) & **DFS와 BFS 기초** :: 김지원<br>[수업자료]()<br>[문제집](https://www.acmicpc.net/workbook/view/9003)                                                                                                                                                 |
+| 6  | **그래프** 이론과 구현 (2) & **DFS와 BFS 응용 & 다익스트라 알고리즘** :: 류지윤<br>[수업자료]()                                                                                                                                                                                         |
+| 7  | **분할정복 & 이분탐색** :: <br>[수업자료]()                                                                                                                                                                                                                           |
+| 8  | **그리디 알고리즘** :: 백민희 <br>[수업자료]()                                                                                                                                                                                                                             |
+| 9  | **완전탐색(Brute Force) & 시뮬레이션** <br>[수업자료]()                                                                                                                                                                                                                   |
 
 ## 발표 문제🏆
 
