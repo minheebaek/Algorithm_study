@@ -25,5 +25,11 @@ https://dundung.tistory.com/10
 
 4.boj 2156 _업로드 백민희
 블로그
-https://hees-dev.tistory.com/30
-https://zoonvivor.tistory.com/133
+1.https://hees-dev.tistory.com/30
+2.https://zoonvivor.tistory.com/133
+
+5.boj 11053 _업로드 백민희
+블로그
+1.https://j-sik.tistory.com/104   //dp를 1로 다 초기화하는 이유
+2.https://wookong-lab.tistory.com/5  //if 조건 
+3.https://st-lab.tistory.com/137
