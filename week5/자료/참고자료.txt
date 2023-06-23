@@ -1,12 +1,26 @@
 도움이 됐던 정보들은 이 파일에 자유롭게 작성해서 공유해주시면 됩니다.
 업로드 할 때 이름 기입 해주세요.
 
-1.boj 1991
+0.발표자료 출처
+인접행렬&인접리스트
+https://sarah950716.tistory.com/12
+dfs
+https://minhamina.tistory.com/22
+https://youtu.be/l0Rsu7dziws //나동빈 영상
+https://blog.naver.com/ndb796?Redirect=Log&logNo=221230945092&from=postView //나동빈 블로그
+bfs
+https://minhamina.tistory.com/36
+https://youtu.be/66ZKz-FktXo //나동빈 영상
+https://blog.naver.com/ndb796?Redirect=Log&logNo=221230944971&from=postView //나동빈 블로그
+
+https://velog.io/@lucky-korma/DFS-BFS%EC%9D%98-%EC%84%A4%EB%AA%85-%EC%B0%A8%EC%9D%B4%EC%A0%90 //BFS,DFS 차이점 언제 BFS/DFS 사용해야하는지 알 수 있음
+
+1.boj 1991_업로드 백민희
 https://minhamina.tistory.com/78 (블로그 하단 참고자료까지)
 
-2.boj 1045
+2.boj 1045_업로드 백민희
 https://jaewoo2233.tistory.com/38
 
-3.boj 5567
+3.boj 5567_업로드 백민희
 https://minhamina.tistory.com/112
 //bfs 사용한 블로그인데 다른 블로그 보면 dfs 이용한 것도 많아요 적절하게 참고하시길 바랍니다.

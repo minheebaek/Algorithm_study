@@ -1,0 +1,7 @@
+도움이 됐던 정보들은 이 파일에 자유롭게 작성해서 공유해주시면 됩니다.
+업로드 할 때 이름 기입 해주세요.
+
+1.BOJ 2178 _업로드 백민희
+0.https://velog.io/@lucky-korma/DFS-BFS%EC%9D%98-%EC%84%A4%EB%AA%85-%EC%B0%A8%EC%9D%B4%EC%A0%90 //BFS,DFS 차이점 언제 BFS/DFS 사용해야하는지 알 수 있음
+1.https://velog.io/@lifeisbeautiful/Java-%EB%B0%B1%EC%A4%80-2178%EB%B2%88-%EB%AF%B8%EB%A1%9C-%ED%83%90%EC%83%89-%EC%9E%90%EB%B0%94
+2.https://dhbang.tistory.com/5
