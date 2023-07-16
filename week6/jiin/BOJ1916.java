@@ -55,13 +55,13 @@ public class BOJ1916 {
     
     
     public static class Point implements Comparable<Point>{
-        int x;
-        int y;
+        int x; //정점
+        int y; //가중치
         public Point(int x, int y) {
             this.x=x;
             this.y=y;
         }
-        // 우선순위큐에서 가까운 값이 우선순위로 계산되게 하는 
+        // 오름차순
         @Override
         public int compareTo(Point o) {
             if(this.y - o.y < 0)
