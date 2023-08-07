@@ -14,11 +14,7 @@ https://jainn.tistory.com/203
 2.BOJ 1713 _업로드 백민희
 https://sorryday.tistory.com/30
 
-<<<<<<< HEAD
-3.PRG 42839 _업로드 백민희
-=======
 3.BOJ 42839 _업로드 백민희
->>>>>>> eb7b3d9a3034cedc72846cbb3f7e8240fc29ee32
 https://kyeahen.github.io/algorithm/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-42839-%EC%86%8C%EC%88%98-%EC%B0%BE%EA%B8%B0/
 https://bcp0109.tistory.com/14
 https://velog.io/@uhan2/java-String.toCharArray-%EC%82%AC%EC%9A%A9%EB%B2%95
