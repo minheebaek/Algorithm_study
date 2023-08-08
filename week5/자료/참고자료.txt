@@ -16,7 +16,8 @@ https://blog.naver.com/ndb796?Redirect=Log&logNo=221230944971&from=postView //�
 https://velog.io/@lucky-korma/DFS-BFS%EC%9D%98-%EC%84%A4%EB%AA%85-%EC%B0%A8%EC%9D%B4%EC%A0%90 //BFS,DFS 차이점 언제 BFS/DFS 사용해야하는지 알 수 있음
 
 1.boj 1991_업로드 백민희
-https://minhamina.tistory.com/78 (블로그 하단 참고자료까지)
+https://minhamina.tistory.com/78
+https://velog.io/@gandi0330/Java-백준-트리-순회-1991번
 
 2.boj 1045_업로드 백민희
 https://jaewoo2233.tistory.com/38

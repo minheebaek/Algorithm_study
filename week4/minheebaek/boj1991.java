@@ -1,95 +1,65 @@
+import java.util.*;
 import java.io.*;
-
-class Node {
-    char data;
+class Node{
+    char value;
     Node left;
     Node right;
 
-    Node(char data) {
-        this.data = data;
+    Node(char value, Node left, Node right){
+        this.value = value;
+        this.left = left;
+        this.right = right;
     }
 }
-
-class TreeOrderClass {
-    public Node root;
-
-    public void createNode(char data, char leftData, char rightData) {
-        if(root == null) {
-            root = new Node(data);
-
-            if(leftData != '.') {
-                root.left = new Node(leftData);
-            }
-            if(rightData != '.') {
-                root.right = new Node(rightData);
-            }
-        } else {
-            searchNode(root, data, leftData, rightData);
-        }
-    }
-
-
-    public void searchNode(Node root, char data, char leftData, char rightData) {
-        if(root == null) {
-            return;
-        } else if(root.data == data) {
-            if(leftData != '.') {
-                root.left = new Node(leftData);
-            }
-            if(rightData != '.') {
-                root.right = new Node(rightData);
-            }
-        } else {
-            searchNode(root.left, data, leftData, rightData);
-            searchNode(root.right, data, leftData, rightData);
-        }
-    }
-
-
-    public void preorder(Node root){
-        System.out.print(root.data);
-        if(root.left!=null) preorder(root.left);
-        if(root.right!=null) preorder(root.right);
-    }
-
-    public void inorder(Node root){
-        if(root.left!=null) inorder(root.left);
-        System.out.print(root.data);
-        if(root.right!=null) inorder(root.right);
-    }
-
-
-    public void postorder(Node root){
-        if(root.left!=null) postorder(root.left);
-        if(root.right!=null) postorder(root.right);
-        System.out.print(root.data);
-    }
-
-}
-
-public class Main {
-    public static void main(String[] args) throws IOException {
+public class Main{
+    static Node head = new Node('A',null,null);
+    public static void main(String[] args) throws IOException{
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        int N = Integer.parseInt(br.readLine());
+        int n = Integer.parseInt(br.readLine());
 
-        TreeOrderClass t = new TreeOrderClass();
+        for(int i=0; i<n; i++){
+            StringTokenizer st = new StringTokenizer(br.readLine());
+            char root = st.nextToken().charAt(0);
+            char left = st.nextToken().charAt(0);
+            char right = st.nextToken().charAt(0);
 
-        for(int i = 0; i < N; i++) {
-            char[] data;
-            data = br.readLine().replaceAll(" ", "").toCharArray();
-            t.createNode(data[0], data[1], data[2]);
+            insertNode(head,root,left,right);
         }
-
-
-        t.preorder(t.root);
+        preOrder(head);
         System.out.println();
-
-        t.inorder(t.root);
+        inOrder(head);
         System.out.println();
-
-        t.postorder(t.root);
-
-        br.close();
+        postOrder(head);
+    }
+    public static void insertNode(Node temp, char root, char left, char right){
+        if(temp.value==root){
+            temp.left=(left=='.'?null:new Node(left,null,null));
+            temp.right=(right=='.'?null:new Node(right,null,null));
+        }
+        else{
+            if(temp.left!=null) insertNode(temp.left,root,left,right);
+            if(temp.right!=null) insertNode(temp.right,root,left,right);
+        }
     }
 
+
+
+    public static void preOrder(Node node){
+        if(node==null) return;
+        System.out.print(node.value);
+        preOrder(node.left);
+        preOrder(node.right);
+    }
+    public static void inOrder(Node node){
+        if(node==null) return;
+        inOrder(node.left);
+        System.out.print(node.value);
+        inOrder(node.right);
+    }
+    public static void postOrder(Node node){
+        if(node==null) return;
+        postOrder(node.left);
+        postOrder(node.right);
+        System.out.print(node.value);
+    }
 }
