@@ -19,10 +19,12 @@ https://blog.naver.com/ndb796/221228342808 //힙정렬
 
 3.boj 1914 _업로드 백민희
 블로그
-1.https://shoark7.github.io/programming/algorithm/tower-of-hanoi //하노이 총횟수 공식
+1.https://www.youtube.com/watch?v=FYCGV6F1NuY
 2.https://inpages.tistory.com/68   //BigInteger
-3.자료구조 책 (자료 안 'boj1914참고자료.pdf) // 형광펜부터 마지막줄까지를 중심으로 읽으면 이해하기 좋을 듯 합니다!
+3.https://coding-factory.tistory.com/604
+4.자료구조 책 (자료 안 'boj1914참고자료.pdf) // 형광펜부터 마지막줄까지를 중심으로 읽으면 이해하기 좋을 듯 합니다!
 저는 이게 가장 이해가 잘 돼서 올립니다.
+5.https://yerimstar.tistory.com/105
 
 4.boj 2447 _업로드 백민희
 1.https://st-lab.tistory.com/95
